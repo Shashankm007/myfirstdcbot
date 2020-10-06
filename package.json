@@ -1,0 +1,27 @@
+{
+    "name": "firstbot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "blazy",
+        "steam",
+        "csgo"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ascii-table": "0.0.9",
+        "better-sqlite3": "^7.1.0",
+        "cpu-stat": "^2.0.1",
+        "discord.js": "^12.3.1",
+        "https": "^1.0.0",
+        "imgur": "^0.3.1",
+        "puppeteer": "^5.2.1",
+        "sqlite3": "^5.0.0",
+        "steamapi": "^2.1.1"
+    }
+}
